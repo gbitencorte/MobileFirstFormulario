@@ -1,0 +1,151 @@
+    header{
+        display: flex; 
+        align-items: center;
+        justify-content: space-between;
+    }
+
+    .logo{
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        gap: 10px;
+    }
+
+    .progress-bar{
+        margin-top: 15%;
+        margin-bottom: 10%;
+    }
+
+    h2{
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        font-size: 1.2rem;
+    }
+
+    .section-one{
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        flex-direction: column;
+        border-bottom: 1px solid #BBBFC1;
+    }
+
+    h1{
+        color: #242731;
+        text-align: center;
+    }
+
+    .h1-p{
+        color: #242731;
+        text-align: center;
+        width: 85%;
+        margin-bottom: 15%;
+    }
+
+    .div-contacts{
+        padding-left: 5%;
+        margin: 0;
+        
+    }
+
+    h3{
+        margin: 0;
+        margin-top: 10%;
+        margin-bottom: 2%;
+    }
+
+    .contacts-p{
+        margin: 0;
+        margin-bottom: 10%;
+    }
+
+    .email{
+        display: flex;
+        align-items: center;
+        justify-content: left;
+        gap: 5%;
+        padding-left: 5%;
+        border-bottom: 1px solid #BBBFC1;
+    }
+
+    .phone{
+        display: flex;
+        align-items: center;
+        justify-content: left;
+        gap: 5%;
+        padding-left: 5%;
+        border-bottom: 1px solid #BBBFC1;
+    }
+
+    .div-socialnetwork{
+        padding-left: 5%;
+        margin: 0;
+    }
+
+    .socialnetwork-p{
+        margin: 0;
+        margin-bottom: 10%;
+    }
+
+    .skype{
+        display: flex;
+        align-items: center;
+        justify-content: left;
+        gap: 5%;
+        padding-left: 5%;
+        border-bottom: 1px solid #007AFF;
+    }
+
+    .facebook{
+        display: flex;
+        align-items: center;
+        justify-content: left;
+        gap: 5%;
+        padding-left: 5%;
+        border-bottom: 1px solid #007AFF;
+    }
+
+    .add-more{
+        display: flex;
+        align-items: center;
+        justify-content: left;
+        padding-left: 5%;
+        margin-top: 5%;
+        margin-bottom: 7%;
+    }
+
+    .add-more p{
+        color: #007AFF;
+        font-weight: 700;
+    }
+
+    .facebook-img{
+        width: 23px;
+    }
+
+    button{
+        display: flex;
+        height: 48px;
+        padding: 0 24px 0 32px;
+        justify-content: center;
+        align-items: center;
+        gap: 8px;
+        border-radius: 4px;
+        border: 1px solid #BBBFC1;
+        background: #FFF;
+    }
+
+    .div-btn{
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        margin-bottom: 20%;
+    }
+
+    @media (min-width: 768px){
+        
+
+
+
+    }
