@@ -11,9 +11,15 @@
         gap: 10px;
     }
 
-    .progress-bar{
-        margin-bottom: 10%;
-        width: 100%;
+    .div-img-progress{
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+
+    .section-img-progress{
+        margin-top: 5%;
+        margin-bottom: 5%;
     }
 
     h2{
@@ -209,6 +215,7 @@
         }
 
         header{
+            width: 100%;
             display: flex;
             align-items: center;
             justify-content: space-between;
@@ -228,8 +235,8 @@
         }
 
         .header-img{
-
             width: 1.5%;
+            margin-left: 43%;
         }
 
         h1{
@@ -253,10 +260,12 @@
             margin-top: 5%;
             width: 456px;
             flex-direction: column;
+            padding-left: 5%;
         }
 
         .main-section{
             flex-direction: column;
+            padding-left: 5.5%;
         }
 
         .delivery-address{
@@ -272,9 +281,11 @@
             justify-self: left;
         }
 
-        .progress-bar{
-            margin: 0;
-            padding: 0;
+        .div-img-progress{
+            margin-top: -27%;
+            margin-bottom: 15%;
+            display: flex;
+            align-items: center;
+            justify-content: left;
         }
-        
     }
